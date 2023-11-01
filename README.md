@@ -1,5 +1,5 @@
 # phase-5
-# COVID-19 Data Analysis and Linear Regression
+#  Product demand prediction using machine learningand Linear Regression
 
 This Python script analyzes product demand prediction using machine learning using Pandas and performs a simple linear regression using scikit-learn to predict the number of confirmed cases based on the number of cured and deceased cases. Additionally, it provides a mean squared error as a measure of the model's performance.
 
